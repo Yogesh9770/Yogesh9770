@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yogesh9770
-- 👀 I’m interested in software development
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning javascript and css
 -📫 How to reach me (kush.karan9770@gmail.com)
 - 
