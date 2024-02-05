@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yogesh9770
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning javascript and css
+- 🌱 I’m currently learning python and flask
 -📫 How to reach me (kush.karan9770@gmail.com)
 - 
 
