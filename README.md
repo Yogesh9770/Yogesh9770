@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Yogesh9770
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning python and flask
+- i am also learning django and making projects using REST_framework
+- 
 -📫 How to reach me (kush.karan9770@gmail.com)
 - 
 
