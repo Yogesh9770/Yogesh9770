@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yogesh9770
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning python and flask
-- i am also learning django and making projects using REST_framework
+- 👀 I’m interested in Web development and mobile app development
+- 🌱 I’m currently learning react and react-native
+- i have 2 year on hand exp. in python and django and 1 year in js 
 - 
 -📫 How to reach me (kush.karan9770@gmail.com)
 - 
